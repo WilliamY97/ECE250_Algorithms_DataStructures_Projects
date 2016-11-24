@@ -1,7 +1,7 @@
 # ECE250_Projects
 A series of four lab projects I developed during the course **ECE250 - Algorithms and Data Structures** at the University of Waterloo.
 
-## Projects
+## Project Descriptions
 
 1. Dynamic Double-ended Queue
 
