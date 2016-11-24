@@ -3,10 +3,10 @@ A series of four lab projects I developed during the course **ECE250 - Algorithm
 
 ## Project Descriptions
 
-1. Dynamic Double-ended Queue
+**1. Dynamic Double-ended Queue**
 
-2. Open Addressing - Linear Hashing
+**2. Open Addressing - Linear Hashing**
 
-3. Trie Tree
+**3. Trie Tree**
 
-4. Minimum Spanning Tree (MST) - Kruskal's Algorithm
+**4. Minimum Spanning Tree (MST) - Kruskal's Algorithm**
