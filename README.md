@@ -23,7 +23,7 @@ tree where the root node represents an empty string “” and if the kth (k goi
 a null sub-tree, it represents a string that is the concatenation of string represented by the parent and the
 kth letter of the alphabet (where a is the 0th letter, b is the 1st letter, and so on). Each node may or may not
 indicate that it is a terminal entry for a word. While a trie could be used to store hyphenated and
-capitalized words together with those with apostrophes, we will restrict ourselves to words made up of the
+capitalized words together with those with apostrophes, I restricted it to words made up of the
 twenty-six letters of the English alphabet.
 
 **4. Minimum Spanning Tree (MST) - Kruskal's Algorithm**
