@@ -28,4 +28,13 @@ twenty-six letters of the English alphabet.
 
 **4. Minimum Spanning Tree (MST) - Kruskal's Algorithm**
 
-TBD
+In this project, I implement the Minimum Spanning Tree (MST) of a weighted undirected graph, using
+the Kruskal’s algorithm. We consider the nodes in the graph to be numbered from 0 to n – 1. This means
+a graph with 4 nodes, has nodes named 0, 1, 2 and 3. Each edge has a weight (a positive number and of
+double type) associated with it.
+
+To build the minimum spanning tree T, the Kruskal’s algorithm adds one edge to the T (initialized with
+an empty graph) in each step. To make sure that this procedure does not form loops in the tree, I need to
+keep track of the connected components of T. Disjoint sets is a well-known data structure for grouping n
+elements (nodes) into a collection of disjoint sets (connected components). In this project, the goal is to
+implement the disjoint sets data structure using linked lists.
